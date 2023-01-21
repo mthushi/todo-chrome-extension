@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Todolist",
+  "description": "Simple todo list chrome extension",
+  "version": "1.0",
+  "action": {
+    "default_popup": "basics.html",
+    "default_icon": "checkbox.png"
+  }
+}
